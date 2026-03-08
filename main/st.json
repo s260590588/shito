@@ -622,5 +622,29 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
-    }
+    }，
+    {
+        "id": "nxxzy",
+        "name": "奶香香资源",
+        "baseUrl": "https://naixxzy.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 23
+    },
+    {
+        "id": "thzy",
+        "name": "桃花资源",
+        "baseUrl": "https://thzy1.me/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 24
+    },
+    {
+        "id": "ddzy",
+        "name": "滴滴资源",
+        "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 25
+    },
 ]
